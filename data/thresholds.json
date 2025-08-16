@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "note": "Preset 1% wealth thresholds for US and CN. Values are examples; update with your preferred sources.",
+    "last_updated": "2025-08-16",
+    "unit": "USD (net worth)"
+  },
+  "presets": {
+    "KF": {
+      "US": 5800000.0,
+      "CN": 1074000.0
+    },
+    "SCF_LOW": {
+      "US": 11600000.0,
+      "CN": 1074000.0
+    },
+    "SCF_HIGH": {
+      "US": 13700000.0,
+      "CN": 1074000.0
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "scale_note": "Indices are on a comparable scale with New York City = 100 (Numbeo-style). These are example placeholders for demonstration. Update freely with your latest data.",
+    "last_updated": "2025-08-16",
+    "currency_note": "Indices are unitless. They reflect relative levels, not absolute prices."
+  },
+  "US": {
+    "New York": {
+      "ex_rent": 100.0,
+      "rent": 100.0
+    },
+    "San Francisco": {
+      "ex_rent": 90.7,
+      "rent": 78.4
+    },
+    "San Jose": {
+      "ex_rent": 83.7,
+      "rent": 76.1
+    },
+    "Boston": {
+      "ex_rent": 82.7,
+      "rent": 79.2
+    }
+  },
+  "CN": {
+    "Beijing": {
+      "ex_rent": 36.0,
+      "rent": 21.0
+    },
+    "Shanghai": {
+      "ex_rent": 38.0,
+      "rent": 22.0
+    },
+    "Shenzhen": {
+      "ex_rent": 38.5,
+      "rent": 24.0
+    },
+    "Guangzhou": {
+      "ex_rent": 32.2,
+      "rent": 16.5
+    },
+    "Hangzhou": {
+      "ex_rent": 31.0,
+      "rent": 13.0
+    },
+    "Nanjing": {
+      "ex_rent": 28.0,
+      "rent": 9.0
+    },
+    "Wuhan": {
+      "ex_rent": 27.0,
+      "rent": 7.5
+    },
+    "Chengdu": {
+      "ex_rent": 26.0,
+      "rent": 7.7
+    }
+  },
+  "clusters": {
+    "CN_Tier1": [
+      "Beijing",
+      "Shanghai",
+      "Shenzhen",
+      "Guangzhou"
+    ],
+    "CN_Tier2": [
+      "Hangzhou",
+      "Nanjing",
+      "Wuhan",
+      "Chengdu"
+    ],
+    "US_1pct_metros": [
+      "New York",
+      "San Francisco",
+      "San Jose",
+      "Boston"
+    ]
+  }
+}
